@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" src="css/style.css">
+
+
+</head>
+
+<body> 
+<h1> Profile    </h1>
+<p>  Here I write my profile content   </P>
+
+
+<h1> Contact    </h1>
+<h2> ADDRESS </h2>   <p>   </p>
+<h2> E-Mail  </h2>   <p>   </p>
+<h2> PHONE   </h2>   <p>   </p>
+<h2> WEBSITE </h2>   <p>   </p>
+<h1> Skills     </h1>
+
+
+<h1> Experience </h1>
+
+<ul>
+<li> ASU Racing Team
+
+<li> Enactus
+
+<li> AYB
+
+<li>
+</ul>
+
+<h1> Software   </h1>
+
+
+
+</body>
+</html>
